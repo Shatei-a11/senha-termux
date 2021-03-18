@@ -6,8 +6,8 @@ def senha():
                        while True:
                                                 if senha == "vazia":
                                                         print("Vc n tem senha")
-                                                        k = input("Digite a nova senha:>
-                                                        with open('senha.txt', 'w') as >
+                                                        k = input("Digite a nova senha: ")
+                                                        with open('senha.txt', 'w') as nova:
                                                                 nova.write(str(k))
                                                                 print("Pronto")
                                                         break
@@ -16,7 +16,7 @@ def senha():
                                                         print("Acesso garantido")
                                                         break
                                                 else:
-                                                        print("Senha errada tente novam>
+                                                        print("Senha errada tente novamente")
 
 while True:
         try:
