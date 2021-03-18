@@ -1,4 +1,5 @@
 # senha-termux
+cd senha-termux  
 1 - python regist.py   
 E digite sua senha
 
