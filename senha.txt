@@ -1,1 +1,1 @@
-vazia
+Escreva python regist.py para adicionar sua senha
