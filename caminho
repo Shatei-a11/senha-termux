@@ -10,7 +10,7 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 fi
 clear
 cd
-cd /data/data/com.termux/files/home/termux_senha
+cd /data/data/com.termux/files/home/senha-termux
 clear
 python senha.py
 cd ..
